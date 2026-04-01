@@ -1,0 +1,58 @@
+[
+  {
+    "claim_id": "CLM001",
+    "member_id": "MBR100",
+    "prescriber_npi": "1234567890",
+    "ndc": "12345678901",
+    "drug_name": "Metformin 500mg",
+    "quantity": 60,
+    "days_supply": 30,
+    "daw_code": 0,
+    "fill_date": "2026-03-20",
+    "written_date": "2026-03-15",
+    "claim_type": "B1",
+    "override_code": ""
+  },
+  {
+    "claim_id": "CLM002",
+    "member_id": "MBR101",
+    "prescriber_npi": "INVALID_NPI",
+    "ndc": "00093105601",
+    "drug_name": "Lisinopril 10mg",
+    "quantity": 30,
+    "days_supply": 30,
+    "daw_code": 1,
+    "fill_date": "2026-03-21",
+    "written_date": "2026-03-18",
+    "claim_type": "B1",
+    "override_code": ""
+  },
+  {
+    "claim_id": "CLM003",
+    "member_id": "MBR102",
+    "prescriber_npi": "9876543210",
+    "ndc": "NDC_NOT_FOUND",
+    "drug_name": "Unknown Drug",
+    "quantity": 90,
+    "days_supply": 30,
+    "daw_code": 0,
+    "fill_date": "2026-03-22",
+    "written_date": "2026-03-19",
+    "claim_type": "B2",
+    "override_code": ""
+  },
+  {
+    "claim_id": "CLM004",
+    "member_id": "MBR103",
+    "prescriber_npi": "1122334455",
+    "ndc": "59762037203",
+    "drug_name": "Atorvastatin 20mg",
+    "quantity": 30,
+    "days_supply": 30,
+    "daw_code": 0,
+    "fill_date": "2026-03-23",
+    "written_date": "2026-03-20",
+    "claim_type": "B1",
+    "override_code": ""
+  }
+]
